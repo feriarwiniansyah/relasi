@@ -11,13 +11,13 @@
     <div class="container">
         <div class="card mt-5">
             <div class="card-body">
-                <h3 class="text-center"><a href="https://santrikoding.com">www.santrikoding.com</a></h3>
-                <h5 class="text-center my-4">Laravel Eloquent Relationship : One To Many</h5>
-                <table class="table table-bordered table-striped">
+                <h3 class="text-center text-success">Feri Arwiniansyah</h3>
+                <h5 class="text-center text-success my-4">Laravel Eloquent Relationship : One To Many</h5>
+                <table class="table table-bordered table-striped table-light">
                     <thead>
                         <tr>
-                            <th>Judul Post</th>
-                            <th>Komentar</th>
+                            <th class="text-center text-success">Judul Post</th>
+                            <th class="text-center text-success">Komentar</th>
                         </tr>
                     </thead>
                     <tbody>
